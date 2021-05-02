@@ -9,3 +9,4 @@ Create file in the current directory or where .bat files are stored on your comp
 ```
 python3 (or other python alias) absolute_path_for_main.py_file
 ```
+Schdule task using windows's Task scheduler.
